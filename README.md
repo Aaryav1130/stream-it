@@ -1,6 +1,6 @@
 # Stream-It
 ![Next.js](https://img.shields.io/badge/Next.js-14-black)
-![TypeScript](https://img.shields.io/badge/TypeScript-98.9%25-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue)
 ![Prisma](https://img.shields.io/badge/Prisma-ORM-2D3748)
 ![LiveKit](https://img.shields.io/badge/LiveKit-Realtime-FF6B6B)
 

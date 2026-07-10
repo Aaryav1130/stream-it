@@ -74,7 +74,7 @@ prisma/         Database schema and migrations
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/amanjaiswal7236/stream-it.git
+git clone https://github.com/Aaryav1130/stream-it
 cd stream-it
 ```
 

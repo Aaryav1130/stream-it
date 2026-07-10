@@ -6,7 +6,7 @@
 
 A full-stack live streaming platform built with Next.js, featuring real-time video streaming, live chat, creator dashboards, and viewer interactions — similar in spirit to Twitch.
 
-**Live Demo:** [stream-it-gray.vercel.app](https://stream-it-gray.vercel.app)
+**Live Demo:** [stream-it-gray.vercel.app](stream-it-1ps8.vercel.app)
 
 ---
 
